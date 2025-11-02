@@ -1,4 +1,4 @@
-# AWS Three-Tier Web-app Architecture
+# AWS three-tier web-app architecture
 
 ## Application Demo
 <img width="1352" height="869" alt="Screenshot 2025-11-02 at 8 15 51 PM" src="https://github.com/user-attachments/assets/99f97164-bcf4-4c22-a3af-d4338924d648" />
