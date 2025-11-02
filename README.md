@@ -18,11 +18,7 @@ Deploys a secure and scalable three-tier web architecture on AWS with a public A
 - **Monitoring:** CloudWatch metrics/logs, optional ALB logs to S3  
 
 ## Traffic Flow
-Internet → ALB (public)
-↓
-EC2 (private)
-↓
-RDS (private)
+Internet → ALB (public) → EC2 (private) → RDS (private)
 
 ## Security Highlights
 - No public IPs on EC2 or RDS  
