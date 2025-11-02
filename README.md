@@ -1,6 +1,4 @@
-# aws-web-app
-
-# AWS Three-Tier Architecture
+# AWS Three-Tier Web-app Architecture
 
 ## Overview
 Deploys a secure and scalable three-tier web architecture on AWS with a public ALB, private EC2 instances, and a private RDS database inside a custom VPC.
