@@ -1,7 +1,9 @@
 # AWS Three-Tier Web-app Architecture
 
 ## Overview
-Deploys a secure and scalable three-tier web architecture on AWS with a public ALB, private EC2 instances, and a private RDS database inside a custom VPC.
+This project deploys a secure and scalable three-tier architecture on AWS, featuring a public Application Load Balancer (ALB), private EC2 instances, and a private RDS database, all within a custom VPC designed for high availability and security.
+
+It demonstrates core AWS best practices, including network segmentation, least-privilege security, auto scaling, and encrypted traffic flows between application tiers.
 
 ## What It Deploys
 - Public ALB routing to private EC2 app instances  
