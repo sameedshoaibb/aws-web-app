@@ -1,3 +1,4 @@
+# Dynamic variables for AWS Web Application
 # VPC
 variable "vpc_cidr" {
   description = "CIDR block for the VPC"
