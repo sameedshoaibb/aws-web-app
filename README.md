@@ -30,8 +30,9 @@ Internet → ALB (public) → EC2 (private) → RDS (private)
 - Tight SG rules between tiers  
 
 ## Deployment Workflow
-- git clone <repo_url>
-- cd <repo>
-- terraform init
-- terraform plan
-- terraform apply
+```bash 
+git clone <repo_url>
+cd <repo>
+terraform init
+terraform plan
+terraform apply
