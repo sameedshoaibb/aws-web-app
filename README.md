@@ -31,8 +31,8 @@ Internet → ALB (public) → EC2 (private) → RDS (private)
 
 ## Deployment Workflow
 ```bash 
-- git clone <repo_url>
-- cd <repo>
-- terraform init
-- terraform plan
-- terraform apply
+git clone <repo_url>
+cd <repo>
+terraform init
+terraform plan
+terraform apply
